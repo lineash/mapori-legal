@@ -27,11 +27,11 @@ These documents are referenced by the Mapori app:
 
 ## Website
 
-These documents are served at:
-- https://mapori.app/terms
-- https://mapori.app/terms-ko
-- https://mapori.app/privacy
-- https://mapori.app/privacy-ko
+These documents are served via GitHub Pages at:
+- English Terms of Service: https://lineash.github.io/mapori-legal/en/terms
+- English Privacy Policy: https://lineash.github.io/mapori-legal/en/privacy
+- Korean Terms of Service: https://lineash.github.io/mapori-legal/kr/terms
+- Korean Privacy Policy: https://lineash.github.io/mapori-legal/kr/privacy
 
 ## License
 
